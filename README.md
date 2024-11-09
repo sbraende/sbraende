@@ -1,4 +1,4 @@
-## Front-End Student | VFX-veteran | Fairly nerdy
+## Front-End Student | VFX-Veteran | Fairly Nerdy
 Drawing from my background as Head of Lighting, Visual Effects Supervisor, and Senior Visual Effects Artist across commercials, TV, and film, I have extensive experience in creating captivating narratives through imagery. Now, I’m excited to pivot my expertise into the field of front-end and web development.
 
 ### Technologies used:
