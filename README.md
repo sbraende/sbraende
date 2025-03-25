@@ -1,5 +1,5 @@
-## Junior Front-End dev | VFX-Veteran | Fairly Nerdy
-Drawing from my background as Head of Lighting, Visual Effects Supervisor, and Senior Visual Effects Artist across commercials, TV, and film, I have extensive experience in creating captivating narratives through imagery. Now, I’m excited to pivot my expertise into the field of front-end and web development.
+## Frontend Developer | Visual-Effects Veteran | Fairly nerdy | 🇳🇴
+My name is Sebastian Brænde, and I'm a frontend developer with a passion for building engaging web experiences. I previously worked as Department lead of Lighting, Visual Effects Supervisor, and Senior Visual Effects Artist for commercials, TV, and film, bringing stories to life through visuals.
 
 ### Technologies used:
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20" /></a>
