@@ -1,5 +1,5 @@
 ## Frontend Developer | Visual-Effects Veteran | Fairly nerdy | 🇳🇴
-My names is Sebastian Brænde, and I'm a frontend developer with a passion for building engaging web experiences. Previously, I worked as a Lighting Department Lead, Visual Effects Supervisor, and Senior Visual Effects Artist for commercials, TV, and film. I hold a bachelor's degree in Animation and a master's degree in Visual Effects, and love bringing stories to life through visuals.
+Hi! I'm Sebastian Brænde, a frontend developer with a strong creative and technical background. I love creating engaging web experiences and telling stories through visuals and code.
 
 Web-dev portfolio: [sebdev.no](https://sebdev.no/)
 
