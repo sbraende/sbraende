@@ -1,5 +1,5 @@
-## Frontend Developer | Visual-Effects Veteran | Fairly nerdy | 🇳🇴
-Hi! I'm Sebastian Brænde, a frontend developer with a strong creative and technical background. I love creating engaging web experiences and telling stories through visuals and code.
+## Fullstack Developer | Fairly nerdy | 🇳🇴
+Hi! I'm Sebastian Brænde, a fullstack developer with a strong creative and technical background. I love creating engaging web experiences and telling stories through visuals and code.
 
 Web-dev portfolio: [sebdev.no](https://sebdev.no/)
 
